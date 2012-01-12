@@ -1,0 +1,79 @@
+Here is your current list of dogs:
+
+ID:          Name:         Breed: 
+ 222 Cracker Jack             Siberian Husky (Working Group)
+ 123    Valentino             Brussels Griffin 
+ 333   Wild Thing             Welch Terrier (Terrier Group)
+ 556     Fireplug             Dalmatian (Non-sporting Group)
+ 346  Snugglepuss             Bloodhound (Hound Group)
+ 786     Sparkles             Golden Retriever (Sporting Group)
+ 456 Maximillian              German Shepard (Herding Group)
+
+The dog at the end of the list is:
+# 456: Maximillian German Shepard (Herding Group)
+
+The dog at the head of the list is:
+# 222: Cracker JackSiberian Husky (Working Group)
+
+Dog 346 removed from the line!
+
+Dog has been replaced.
+Dogs in 1 and 3 have been repositioned.
+Dogs in 4 and 2 have been repositioned.
+Dogs in 4 and 2 have been repositioned.
+Dogs in 4 and 3 have been repositioned.
+
+The dog at the head of the list is:
+# 123: ValentinoBrussels Griffin
+
+
+The dog at the end of the list is:
+# 456: Maximillian German Shepard (Herding Group)
+Here is your current list of dogs:
+
+ID: Name:          Breed:         
+ 123    Valentino             Brussels Griffin 
+ 556     Fireplug             Dalmatian (Non-sporting Group)
+ 786     Sparkles             Golden Retriever (Sporting Group)
+ 456 Maximillian              German Shepard (Herding Group)
+---- SELECTED NODE ----
+Position #1
+Name: Valentino
+Breed: Brussels Griffin
+
+---- SELECTED NODE ----
+Position #2
+Name: Fireplug
+Breed: Dalmatian (Non-sporting Group)
+
+-----FINAL RESULT -----
+Throughout tough decision-making and proper judgement, our judges
+have decided that the winner of this Dog Show is:...
+
+Dog# 123: Valentino the Brussels Griffin
+Here is your current list of dogs:
+
+ID:          Name:           Breed: 
+   1         Jack             Terrier      
+   2         Pete             G. Retriever 
+
+The dog at the end of the list is:
+# 2: Pete  G. Retriever
+---- SELECTED NODE ----
+Position #2
+Name: Pete
+Breed: G. Retriever
+
+Dog has been replaced.
+Dogs in 1 and 2 have been repositioned.
+Here is your current list of dogs:
+
+ID: Name:          Breed:           
+   2         Pete             G. Retriever 
+   1         Jack             Terrier      
+-----FINAL RESULT -----
+Throughout tough decision-making and proper judgement, our judges
+have decided that the winner of this Dog Show is:...
+
+Dog# 2: Pete the G. Retriever
+
